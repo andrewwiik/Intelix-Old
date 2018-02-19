@@ -4,7 +4,7 @@ Depends: firmware (>= 10.0), mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Old Intelix Code, Don't Run This
-Maintainer: Creatix
-Author: Creatix
+Maintainer: iOS Creatix
+Author: iOS Creatix
 Section: Tweaks
 Tag: compatible::ios10
