@@ -1,0 +1,2 @@
+@interface MFMailboxUid : NSObject
+@end

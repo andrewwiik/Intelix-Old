@@ -1,0 +1,10 @@
+Package: com.ioscreatix.projectx
+Name: Intelix-Old
+Depends: firmware (>= 10.0), mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Old Intelix Code, Don't Run This
+Maintainer: Creatix
+Author: Creatix
+Section: Tweaks
+Tag: compatible::ios10

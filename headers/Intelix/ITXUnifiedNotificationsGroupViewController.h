@@ -1,0 +1,2 @@
+@interface ITXUnifiedNotificationsGroupViewController : UIViewController
+@end
